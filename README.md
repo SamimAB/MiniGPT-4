@@ -7,7 +7,6 @@
 
 ## 💡 Get help - [Q&A](https://github.com/Vision-CAIR/MiniGPT-4/discussions/categories/q-a) or [Discord 💬](https://discord.gg/5WdJkjbAeE)
 
-<hr/>
 
 ## News
 We now provide a llama 2 version of MiniGPT-4
