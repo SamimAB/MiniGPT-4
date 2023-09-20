@@ -2,4 +2,4 @@ datasets:
   cc_sbu_align:
     data_type: images
     build_info:
-      storage: caped_images
+      storage: /path/to/cc_sbu_align/
